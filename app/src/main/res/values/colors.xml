@@ -41,4 +41,16 @@
     <color name="accent_purple">#9B59B6</color>
     <color name="purple_button">#996EB5</color>
 
+    <color name="red">#EB3D59</color>
+    <color name="colorPrimary">#EB3D59</color>
+    <color name="colorPrimaryDark">#D81B60</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="pink">#F04369</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="alert">#F8E2E5</color>
+    <color name="colorred">#EF4444</color>
+    <color name="compliment_background">#FFE6EB</color> <!-- Light purple for CardView -->
+    <color name="compliment_text">#4A00A8</color> <!-- Darker purple for text -->
+
 </resources>
