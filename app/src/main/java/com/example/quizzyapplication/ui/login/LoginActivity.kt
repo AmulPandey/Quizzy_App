@@ -149,8 +149,5 @@ class LoginActivity : BaseActivity<ActivityLoginBinding>() {
 
     override fun onDestroy() {
         super.onDestroy()
-        globalLayoutListener?.let {
-            binding.root.viewTreeObserver.removeOnGlobalLayoutListener(it)
-        }
     }
 }
