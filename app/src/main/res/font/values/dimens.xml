@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base scaling unit -->
+    <dimen name="screen_padding">16dp</dimen>
+
+    <!-- Text Sizes (scaled with screen density) -->
+    <dimen name="title_text_size">22sp</dimen>
+    <dimen name="subtitle_text_size">16sp</dimen>
+    <dimen name="add_button_text_size">24sp</dimen>
+
+    <!-- Margins/Paddings -->
+    <dimen name="title_margin_top">24dp</dimen>
+    <dimen name="subtitle_margin_top">16dp</dimen>
+    <dimen name="grid_margin_top">32dp</dimen>
+    <dimen name="add_button_margin_top">24dp</dimen>
+    <dimen name="button_margin_top">12dp</dimen>
+
+    <!-- Button Sizes -->
+    <dimen name="add_button_size">60dp</dimen>
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="button_padding">16dp</dimen>
+    <dimen name="button_margin">8dp</dimen>
+    <dimen name="button_padding_horizontal">16dp</dimen>
+    <dimen name="image_margin">6dp</dimen>
+    <dimen name="gallery_image_size">180dp</dimen>
+</resources>

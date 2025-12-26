@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080633140274",
+    "project_id": "quizzyapplication-23584",
+    "storage_bucket": "quizzyapplication-23584.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080633140274:android:221c1399f2473e8716c82b",
+        "android_client_info": {
+          "package_name": "com.example.quizzyapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd-R4_TT-iamim5WMkKcf8g1_ByEey2o0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
